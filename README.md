@@ -26,7 +26,7 @@ In your response, explain what a Stack/Queue is and why it would be best for thi
 
 ### Response 2
 
-A stack is a data structure that used the LIFO principle. This means that the last item you add is the first one you remove, just like a stack of toy blocks. So when the user visits a new webpage, it gets pushed onto the stack. In contrast queues follow the FIFO principle, meaning the first item added is the first one removed—like people standing in a line. This wouldn't work well for a "back" button because you'd have to return to the very first page before reaching the recent ones. 
+A stack is a data structure that used the LIFO principle. This means that the last item you add is the first one you remove, just like a stack of toy blocks. So when the user visits a new webpage, it gets pushed onto the stack. When they click "back," the most recently visited page which would be the top of the stack, pops, and they return to the previous page. In contrast queues follow the FIFO principle, meaning the first item added is the first one removed—like people standing in a line. This wouldn't work well for a "back" button because you'd have to return to the very first page before reaching the recent ones. 
 
 ## Prompt 3
 
