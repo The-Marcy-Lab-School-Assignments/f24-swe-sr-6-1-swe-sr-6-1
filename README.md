@@ -38,7 +38,7 @@ A few classic problems involving a stack are the `isBalanced` and `isPalindrome`
 
 For the function 'isPalindrome', essentially what you need to do is see if the given string is the same string if it were backwards. The first step is to make sure that all of the characters in the string are lowercase. This allows for there to be a consistency amongst the elements in the string.
 
-it'll look like this
+It'll look like this
 
 ```js
 function isPalindrome(str) {
